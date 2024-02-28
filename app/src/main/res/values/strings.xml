@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Онлайн ОРТ</string>
+    <string name="start_test_btn">Начать тест</string>
+    <string name="admin_panel_btn">Админ-панель</string>
+    <string name="exit_btn">Выход</string>
+    <string name="open_admin_panel">Вход</string>
+    <string name="add_test">Добавление</string>
+    <string name="update_test">Изменение</string>
+    <string name="delete_test">Удаление</string>
+    <string name="todo">TODO</string>
+</resources>
